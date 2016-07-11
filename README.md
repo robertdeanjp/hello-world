@@ -1,2 +1,4 @@
 # hello-world
-First Repository
+
+Hi world, make the most of it. :)
+
